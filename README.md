@@ -1,2 +1,2 @@
-# Machine_Learning_Class_on
+# Company_Bankrupt_Prediction
 # This is my first repository for ML work 
